@@ -1,0 +1,11 @@
+{
+    "roles": [
+        {
+            "id": 1,
+            "name": "Admin",
+            "users": [
+                { "id": 1, "email": "lrodriguez@4geeks.co", "active": true }
+            ]
+        }
+    ]
+}
